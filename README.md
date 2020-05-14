@@ -8,4 +8,4 @@ For central control, it can set all windows to clear or set all windows to dark.
 
 It takes one second for a window to change from one state to another for local control and central control.
 
-Push button is used as emergency status and set all windows as clear right away.
+Push button is used as emergency status and set all windows as clear immediately.
